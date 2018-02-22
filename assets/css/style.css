@@ -1,0 +1,13 @@
+.jumbotron {
+text-align: center;
+background-color: teal;
+color: white;
+}
+.panel-heading {
+  background-color: teal;
+  color: whitesmoke;
+}
+.btn {
+  background-color: teal;
+  color: whitesmoke;
+}
